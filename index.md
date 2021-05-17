@@ -11,7 +11,7 @@ layout: home
 > how about this block quote
 > 
 
-[link](head#1234)
+[link]remember that cool stuff?(#head1234)
 
 paragraph start
  
