@@ -4,12 +4,14 @@
 
 layout: home
 ---
-# so much cool stuff
+# <a name="head1234"></a> so much cool stuff
 ## im testing
 ### hell yea
 
 > how about this block quote
 > 
+
+[link](head#1234)
 
 paragraph start
  
