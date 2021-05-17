@@ -4,29 +4,19 @@
 
 layout: home
 ---
-# <a name="head1234"></a> so much cool stuff
-## im testing
-### hell yea
 
-> how about this block quote
-> 
+I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute](https://www.wri.org/), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in the Daily Pennsylvanian, where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
 
-[link](#head1234)
+Twitter: @giannaferrarin
+Contact: giannamferrarin [at] gmail [dot] com
 
-paragraph start
- 
-1. mm sexy list
-2. yeee
-3. whow
+### <a name="Selected Writing and Reporting"></a>Selected Writing and Reporting
 
-Rebecca Tan is a journalist and writer based in Washington, D.C.
+### <a name="Research"></a>Research
 
-She is currently a staff reporter at The Washington Post, covering local government, criminal justice and immigrant communities in the D.C. suburbs. Her work has also appeared in Vox.com and Longreads Magazine. In 2020, she received the John Jay /H.F. Guggenheim Foundation Fellowship in Criminal Justice Reporting.
+### <a name ="Data Work"></a> Data Work
 
-She is a native of Singapore and spends her free time reading, cooking and thinking of home. 
 
-More text to see what this does an image ![image alt>](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ac9e511e-262d-4321-a310-58dddbb40750/linkedin_photo1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210517T192131Z&X-Amz-Expires=86400&X-Amz-Signature=496d1920d1d930a894c5fe960c24475a0eb9fd78e88d022e9fa62237ece65ca2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22linkedin_photo1.jpg%22) |
 
-A [link](https://www.thedp.com/article/2019/01/penn-admissions-fact-checking-furda-wharton-class-2023-ivy-league) to the page.
 
 
