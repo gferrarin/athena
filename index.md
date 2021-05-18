@@ -4,14 +4,14 @@
 
 layout: home
 ---
-### <a name="About"></a> About
+### <a id="About"></a> About
 I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute (WRI)](https://www.wri.org/), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in the Daily Pennsylvanian, where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
 
 Twitter: @giannaferrarin
 
 Contact: giannamferrarin [at] gmail [dot] com
 
-### <a name="Writing"></a>Selected Writing and Reporting
+### <a id="Writing"></a>Selected Writing and Reporting
 * ['The job is to nuture talent': Hitomi Yoshida joins PAACH as new coordinator](https://www.thedp.com/article/2019/09/penn-hitomi-yoshida-new-paach-program-coordinator) (September 2019)
 * [Two workers trapped after Van Pelt building construction scaffolding collapses](https://www.thedp.com/article/2019/06/penn-van-pelt-scaffolding-collapse-accident) (June 2019)
 * ['You don't have time for it' -- why Penn Admissions doesn't fact-check most applications](https://www.thedp.com/article/2019/01/penn-admissions-fact-checking-furda-wharton-class-2023-ivy-league) (January 2019)
@@ -22,11 +22,11 @@ Contact: giannamferrarin [at] gmail [dot] com
 * [Only one Penn dining hall serves halal food -- and students say it has made multiple mistakes](https://www.thedp.com/article/2017/11/halal-dining-options-upenn-religion-islam-philadelphia-eating-meals-administration) (November 2017)
 * [Students and faculty are fighting to keep Asian-American studies alive. They say administrators aren't helping."](https://www.thedp.com/article/2017/09/students-and-faculty-are-fighting-to-keep-asian-american-studies-alive-they-say-administrators-arent-helping) (September 2017)
 
-### <a name="Research"></a>Research
+### <a id="Research"></a>Research
 * Research intern at WRI 
 * Research assistant to Dr. Erick Guerra in the Department of City and Regional Planning, 2019-2020
 
-### <a name ="Data Work"></a> Data Work
+### <a id ="Data Work"></a> Data Work
 
 
 
