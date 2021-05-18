@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute (WRI)](https://www.wri.org/), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in the Daily Pennsylvanian, where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
 
 Twitter: @giannaferrarin
