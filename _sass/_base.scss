@@ -53,14 +53,14 @@ h5, .h5 { font-size: $h5-size; }
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
 a {
-  color: inherit;
+  color: #A52A2A;
   text-decoration: none;
   padding-bottom: 1px;
-  border-bottom: 1px solid currentColor;
+  border-bottom: 1px solid 	#A52A2A;
 }
 
 a:hover {
-  color: $color-primary-link;
+  color: 	#A52A2A;
   text-decoration: none;
   border-bottom: 1px dotted;
 }
