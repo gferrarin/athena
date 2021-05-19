@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gianna Ferrarin
+title: About
 permalink: /#About/
 ---
 
