@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /#About/
 ---
 
 A simple and elegant theme for Jekyll and GitHub Pages.
