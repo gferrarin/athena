@@ -24,12 +24,14 @@ Contact: giannamferrarin [at] gmail [dot] com
 * [Students and faculty are fighting to keep Asian-American studies alive. They say administrators aren't helping."](https://www.thedp.com/article/2017/09/students-and-faculty-are-fighting-to-keep-asian-american-studies-alive-they-say-administrators-arent-helping) (September 2017)
 
 ### <a id="Research/"></a>Research
-* Research intern at 
+* Research intern at WRI supporting:
+  * Project #1: Identified climate risk considerations in COVID-19 stimulus packages across 18 countries and sourced 164 unreferenced measures from policy trackers
+  * Project #2: Examined 74 Nationally Determined Contributions and National Adaptation Plans to document adaptation targets, funding, governance, and inclusion of vulnerable groups.
 * Research assistant to Dr. Erick Guerra in the Department of City and Regional Planning, 2019-2020
 
 ### <a id ="Data Work/"></a> Data Work
-* Created database using Power Query to track and visualize stakeholder involvement and climate risks across over 375 cities
-*
+* Utilized Power Query to transform stakeholder data and visualized sectoral work across 375 cities to support WRI's [1000 Cities Adapt Now](https://wrirosscities.org/news/release-joint-statement-accelerating-climate-adaptation-%E2%80%981000-cities-adapt-now%E2%80%99) initiative
+* Logistic regression models
 * Built geoprocessing workflows in ArcGIS ModelBuilder to filter medians and islands from city [curb dataset](https://metadata.phila.gov/#home/datasetdetails/557f30c5dcec614c29ce8b69/representationdetails/557f30e1c579ea311699bb44/) as intern at the city's Office of Transportation, Infrastructure, and Sustainability ([oTIS](http://www.phillyotis.com/))
 * Updated and ensured accuracy of Philadelphia's 2019 [bike network](https://phl.maps.arcgis.com/apps/mapviewer/index.html?layers=b5f660b9f0f44ced915995b6d49f6385&layerId=0) [dataset](https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/) in ArcGIS as oTIS intern
 
