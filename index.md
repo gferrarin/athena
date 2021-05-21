@@ -25,13 +25,13 @@ Contact: giannamferrarin [at] gmail [dot] com
 
 ### <a id="Research/"></a>Research
 * Research intern at WRI supporting:
-  * Project #1: Identified climate risk considerations in COVID-19 stimulus packages across 18 countries and sourced 164 unreferenced measures from policy trackers
-  * Project #2: Examined 74 Nationally Determined Contributions and National Adaptation Plans to document adaptation targets, funding, governance, and inclusion of vulnerable groups.
-* Research assistant to Dr. Erick Guerra in the Department of City and Regional Planning, 2019-2020
+    * Project #1: Identified climate risk considerations in COVID-19 stimulus packages across 18 countries and sourced 164 unreferenced measures from policy trackers
+    * Project #2: Examined 74 Nationally Determined Contributions and National Adaptation Plans to document adaptation targets, funding, governance, and inclusion of vulnerable groups.
+* Research assistant to Dr. Erick Guerra in the UPenn Department of City and Regional Planning studying mobility behavior under license-plate-based [driving restrictions](https://www.researchgate.net/publication/317988298_Getting_around_a_license-plate_ban_Behavioral_responses_to_Mexico_City's_driving_restriction) in Mexico City, 2019-2020
 
 ### <a id ="Data Work/"></a> Data Work
-* Utilized Power Query to transform stakeholder data and visualized sectoral work across 375 cities to support WRI's [1000 Cities Adapt Now](https://wrirosscities.org/news/release-joint-statement-accelerating-climate-adaptation-%E2%80%981000-cities-adapt-now%E2%80%99) initiative
-* Logistic regression models
+* Utilized Power Query to transform stakeholder data and visualize urban resilience initiatives across 375 cities to support WRI's [1000 Cities Adapt Now](https://wrirosscities.org/news/release-joint-statement-accelerating-climate-adaptation-%E2%80%981000-cities-adapt-now%E2%80%99) program
+* Trained and tested logistic regression models to predict missing values in [dataset](https://en.www.inegi.org.mx/programas/eod/2017/) of Mexico City vehicle trips as UPenn research assistant
 * Built geoprocessing workflows in ArcGIS ModelBuilder to filter medians and islands from city [curb dataset](https://metadata.phila.gov/#home/datasetdetails/557f30c5dcec614c29ce8b69/representationdetails/557f30e1c579ea311699bb44/) as intern at the city's Office of Transportation, Infrastructure, and Sustainability ([oTIS](http://www.phillyotis.com/))
 * Updated and ensured accuracy of Philadelphia's 2019 [bike network](https://phl.maps.arcgis.com/apps/mapviewer/index.html?layers=b5f660b9f0f44ced915995b6d49f6385&layerId=0) [dataset](https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/) in ArcGIS as oTIS intern
 
