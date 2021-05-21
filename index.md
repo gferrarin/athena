@@ -6,7 +6,7 @@ layout: home
 
 ---
 ### <a id="About/"></a> About
-I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute (WRI)](https://www.wri.org/), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in the Daily Pennsylvanian, where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
+I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute](https://www.wri.org/) (WRI), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in [The Daily Pennsylvanian](https://www.thedp.com/staff/gianna-ferrarin), where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
 
 Twitter: @giannaferrarin
 
@@ -24,10 +24,15 @@ Contact: giannamferrarin [at] gmail [dot] com
 * [Students and faculty are fighting to keep Asian-American studies alive. They say administrators aren't helping."](https://www.thedp.com/article/2017/09/students-and-faculty-are-fighting-to-keep-asian-american-studies-alive-they-say-administrators-arent-helping) (September 2017)
 
 ### <a id="Research/"></a>Research
-* Research intern at WRI 
+* Research intern at 
 * Research assistant to Dr. Erick Guerra in the Department of City and Regional Planning, 2019-2020
 
 ### <a id ="Data Work/"></a> Data Work
+* Created database using Power Query to track and visualize stakeholder involvement and climate risks across over 375 cities
+*
+* Built geoprocessing workflows in ArcGIS ModelBuilder to filter medians and islands from city [curb dataset](https://metadata.phila.gov/#home/datasetdetails/557f30c5dcec614c29ce8b69/representationdetails/557f30e1c579ea311699bb44/) as intern at the city's Office of Transportation, Infrastructure, and Sustainability ([oTIS](http://www.phillyotis.com/))
+* Updated and ensured accuracy of Philadelphia's 2019 [bike network](https://phl.maps.arcgis.com/apps/mapviewer/index.html?layers=b5f660b9f0f44ced915995b6d49f6385&layerId=0) [dataset](https://metadata.phila.gov/#home/datasetdetails/5543867620583086178c4f44/) in ArcGIS as oTIS intern
+
 
 
 
