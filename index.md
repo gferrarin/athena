@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-exclude: true
+menu: NOT MAIN
 
 ---
 ### <a id="About/"></a> About
