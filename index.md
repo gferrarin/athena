@@ -26,8 +26,8 @@ Contact: giannamferrarin [at] gmail [dot] com
 
 ### <a id="Research/"></a>Research
 * Research intern at WRI supporting:
-    &nbsp;&nbsp;&nbsp;&nbsp;* Project #1: Identified climate risk considerations in COVID-19 stimulus packages across 18 countries and sourced 164 unreferenced measures from policy trackers
-    &nbsp;&nbsp;&nbsp;&nbsp;* Project #2: Examined 74 Nationally Determined Contributions and National Adaptation Plans to document climate adaptation targets, funding, governance, and inclusion of vulnerable groups.
+    * Project #1: Identified climate risk considerations in COVID-19 stimulus packages across 18 countries and sourced 164 unreferenced measures from policy trackers
+    * Project #2: Examined 74 Nationally Determined Contributions and National Adaptation Plans to document climate adaptation targets, funding, governance, and inclusion of vulnerable groups.
 * Research assistant to Dr. Erick Guerra in the UPenn Department of City and Regional Planning studying mobility behavior under license-plate-based [driving restrictions](https://www.researchgate.net/publication/317988298_Getting_around_a_license-plate_ban_Behavioral_responses_to_Mexico_City's_driving_restriction) in Mexico City, 2019-2020
 
 ### <a id ="Data-Work/"></a> Data Work
