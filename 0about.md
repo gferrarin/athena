@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /#About/
+exclude: false
 ---
 
 A simple and elegant theme for Jekyll and GitHub Pages.
