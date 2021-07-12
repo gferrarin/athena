@@ -9,7 +9,8 @@ title: Gianna Ferrarin
 ### <a id="About/"></a> About
 I am a journalist and researcher currently based in Los Angeles, California. Most recently, I completed a 6-month internship at the [World Resources Institute](https://www.wri.org/) (WRI), where I analyzed national climate plans and COVID-19 stimulus packages for their inclusion of adaptation actions. My reporting has appeared in [VICE](https://www.vice.com/en/article/z3xqwj/this-tiktok-lawsuit-is-highlighting-how-ai-is-screwing-over-voice-actors) as well as the [The Daily Pennsylvanian](https://www.thedp.com/staff/gianna-ferrarin), where I served as a beat reporter from 2017-2019. I am drawn to stories about gender, technology, and city planning. I graduated from the University of Pennsylvania with a B.A. in Urban Studies and Computer Science. 
 
-Contact: giannamferrarin [at] gmail [dot] com
+Email: giannamferrarin [at] gmail [dot] com
+Twitter: @giannaferrarin
 
 ### <a id="Writing/"></a>Selected Writing and Reporting
 * ['This TikTok Lawsuit Is Highlighting How AI Is Screwing Over Voice Actors'](https://www.vice.com/en/article/z3xqwj/this-tiktok-lawsuit-is-highlighting-how-ai-is-screwing-over-voice-actors) - VICE, June 2021
