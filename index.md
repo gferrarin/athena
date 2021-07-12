@@ -12,19 +12,16 @@ I am a journalist and researcher currently based in Los Angeles, California. Mos
 Contact: giannamferrarin [at] gmail [dot] com
 
 ### <a id="Writing/"></a>Selected Writing and Reporting
-**VICE**
-* ['This TikTok Lawsuit Is Highlighting How AI Is Screwing Over Voice Actors'](https://www.vice.com/en/article/z3xqwj/this-tiktok-lawsuit-is-highlighting-how-ai-is-screwing-over-voice-actors) (June 2021)
-
-**The Daily Pennsylvanian**
-* ['The job is to nuture talent': Hitomi Yoshida joins PAACH as new coordinator](https://www.thedp.com/article/2019/09/penn-hitomi-yoshida-new-paach-program-coordinator) (September 2019)
-* [Two workers trapped after Van Pelt building construction scaffolding collapses](https://www.thedp.com/article/2019/06/penn-van-pelt-scaffolding-collapse-accident) (June 2019)
-* ['You don't have time for it' -- why Penn Admissions doesn't fact-check most applications](https://www.thedp.com/article/2019/01/penn-admissions-fact-checking-furda-wharton-class-2023-ivy-league) (January 2019)
-* ['Highly-aided' students receive debit cards to pay for winter break meals](https://www.thedp.com/article/2018/12/penn-first-generation-low-income-winter-break-meal-highly-aided) (December 2018)
-* [Penn’s medical marijuana research comes to a standstill as Pa. program faces review](https://www.thedp.com/article/2018/05/pennsylvania-medical-marijuana-program-court-injunction) (May 2018)
-* [Alone at Penn: How first-generation, low-income students navigate an empty campus during winter break](https://www.34st.com/article/2018/01/first-generation-low-income-on-campus-winter-break) (January 2018)
-* [Low-income but not 'high-need': how some Penn students are left out of programs for those in need](https://www.thedp.com/article/2017/12/high-need-thanksgiving-srfs-student-financial-aid-money-upenn-pennsylvania-philadelphia) (December 2017)
-* [Only one Penn dining hall serves halal food -- and students say it has made multiple mistakes](https://www.thedp.com/article/2017/11/halal-dining-options-upenn-religion-islam-philadelphia-eating-meals-administration) (November 2017)
-* [Students and faculty are fighting to keep Asian-American studies alive. They say administrators aren't helping."](https://www.thedp.com/article/2017/09/students-and-faculty-are-fighting-to-keep-asian-american-studies-alive-they-say-administrators-arent-helping) (September 2017)
+* ['This TikTok Lawsuit Is Highlighting How AI Is Screwing Over Voice Actors'](https://www.vice.com/en/article/z3xqwj/this-tiktok-lawsuit-is-highlighting-how-ai-is-screwing-over-voice-actors) - VICE, June 2021
+* ['The job is to nuture talent': Hitomi Yoshida joins PAACH as new coordinator](https://www.thedp.com/article/2019/09/penn-hitomi-yoshida-new-paach-program-coordinator) - The DP, September 2019
+* [Two workers trapped after Van Pelt building construction scaffolding collapses](https://www.thedp.com/article/2019/06/penn-van-pelt-scaffolding-collapse-accident), The DP, June 2019
+* ['You don't have time for it' -- why Penn Admissions doesn't fact-check most applications](https://www.thedp.com/article/2019/01/penn-admissions-fact-checking-furda-wharton-class-2023-ivy-league) - The DP, January 2019
+* ['Highly-aided' students receive debit cards to pay for winter break meals](https://www.thedp.com/article/2018/12/penn-first-generation-low-income-winter-break-meal-highly-aided) - The DP, December 2018
+* [Penn’s medical marijuana research comes to a standstill as Pa. program faces review](https://www.thedp.com/article/2018/05/pennsylvania-medical-marijuana-program-court-injunction) - The DP, May 2018
+* [Alone at Penn: How first-generation, low-income students navigate an empty campus during winter break](https://www.34st.com/article/2018/01/first-generation-low-income-on-campus-winter-break) - 34th Street Magazine, January 2018
+* [Low-income but not 'high-need': how some Penn students are left out of programs for those in need](https://www.thedp.com/article/2017/12/high-need-thanksgiving-srfs-student-financial-aid-money-upenn-pennsylvania-philadelphia) - The DP, December 2017
+* [Only one Penn dining hall serves halal food -- and students say it has made multiple mistakes](https://www.thedp.com/article/2017/11/halal-dining-options-upenn-religion-islam-philadelphia-eating-meals-administration) - The DP, November 2017
+* [Students and faculty are fighting to keep Asian-American studies alive. They say administrators aren't helping."](https://www.thedp.com/article/2017/09/students-and-faculty-are-fighting-to-keep-asian-american-studies-alive-they-say-administrators-arent-helping) - The DP, September 2017
 
 ### <a id="Research/"></a>Research
 * Research intern at WRI supporting:
