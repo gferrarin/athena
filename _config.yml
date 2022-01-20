@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gianna Ferrarin
-description: Gianna Ferrarin is a journalist and researcher based in Los Angeles, California.
+description: Gianna Ferrarin is a journalist and researcher based in Philadelphia, Pennsylvania.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://giannaferrarin.com" # the base hostname & protocol for your site
 github_repo: athena # the GitHub repo name for your project
