@@ -15,6 +15,7 @@ Email: giannamferrarin [at] gmail [dot] com
 Twitter: [@giannaferrarin](https://twitter.com/giannaferrarin)
 
 ### <a id="Writing/"></a>Selected Writing and Reporting
+* ['Access Denied | How ASMR Redefines Digital Intimacy'](https://www.bitchmedia.org/article/asmr-digital-intimacy) - Bitch Magazine, April 2022
 * ['This TikTok Lawsuit Is Highlighting How AI Is Screwing Over Voice Actors'](https://www.vice.com/en/article/z3xqwj/this-tiktok-lawsuit-is-highlighting-how-ai-is-screwing-over-voice-actors) - VICE, June 2021
 * ['The job is to nuture talent': Hitomi Yoshida joins PAACH as new coordinator](https://www.thedp.com/article/2019/09/penn-hitomi-yoshida-new-paach-program-coordinator) - The DP, September 2019
 * [Two workers trapped after Van Pelt building construction scaffolding collapses](https://www.thedp.com/article/2019/06/penn-van-pelt-scaffolding-collapse-accident), The DP, June 2019
